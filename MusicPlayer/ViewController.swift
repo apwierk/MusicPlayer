@@ -126,7 +126,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
         centerX = timeLabel.centerXAnchor.constraint(equalTo: self.playPauseButton.centerXAnchor)
         
         let top: NSLayoutConstraint
-        top = timeLabel.topAnchor.constraint(equalTo: self.playPauseButton.bottomAnchor, constant: 8)
+        top = timeLabel.topAnchor.constraint(equalTo: self.playPauseButton.bottomAnchor, constant: 7)
         
         centerX.isActive = true
         top.isActive = true
