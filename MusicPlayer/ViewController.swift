@@ -3,6 +3,7 @@
 //  MusicPlayer
 //
 //  Created by 이은찬 on 2021/08/26.
+//  본 프로젝트는 부스트코스 야곰을 참고하였음을 알립니다.
 //
 
 import UIKit
